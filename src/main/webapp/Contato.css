@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#about-list-contato{
+  margin-left: 25%;
+  text-align: justify;
+  list-style: none;
+  font-size: 25;
+}
+
+#about-list-contato li{
+  line-height: 30px;
+}
+
+#about-list-contato i{
+  color: #65DAF9;
+  margin-right: 15px;
+}

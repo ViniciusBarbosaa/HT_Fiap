@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+.img-emp{
+ max-width: 420px;
+ max-height: 370px;
+ width: auto;
+ height: auto;
+ margin-left: 100px;
+}
+
+.img-emp-2{
+ max-width: 420px;
+ max-height: 370px;
+ width: auto;
+ height: auto;
+}
+
+#about-area-2 {
+ margin-top: 50px
+}
+
+.sobre-2{
+ margin-left: 100px;
+}
+
+.row-links{
+ margin-top: 30px;
+}

@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+.img-aplic img{
+ max-height: 450px;
+ width: auto;
+ height: auto;
+ margin-left: 45%;
+ margin-bottom: 40px;
+ border: 2px solid ;
+ border-color: #D3DEDC;
+}
+
+.img-aplic1 img{
+ max-height: 450px;
+ width: auto;
+ height: auto;
+ margin-left: 20%;
+ margin-bottom: 30px;
+ border: 2px solid ;
+ border-color: #D3DEDC;
+}
+
+.desc-img-1{
+ padding-left: 0px;
+}
+
+.service-box-aplic {
+ text-align: center;
+ padding-left: 0;
+ align-items: center;
+ justify-content: center;
+ padding-top: 60px;
+}
+
+.service-box-aplic i, .service-box-aplic h4 {
+  transition: .5s;
+}
+
+.service-box-aplic i {
+  font-size: 46px;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+.service-box-aplic h4 a{
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.service-box-aplic:hover > i, .service-box-aplic:hover > h4 {
+  color: #65DAF9;
+}
+
+.service-box-aplic:hover > h4 {
+  text-decoration: underline;
+}
